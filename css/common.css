@@ -107,3 +107,17 @@ h4{
 	font-weight: normal;
 	text-align: center;
 }
+.back{
+	position: fixed;
+	bottom:10px;
+	left: 50%;
+	transform: translateX(-50%);
+	background-color:#2196f3;
+	padding:10px;
+	display: block;
+	border-radius: 10px;
+}
+.back a{
+	text-decoration: none;
+	color: #fff;
+}
